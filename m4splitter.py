@@ -4,6 +4,7 @@ import contextlib
 import io
 import os
 import subprocess
+import sys
 import numpy as np
 import torch
 import whisper
@@ -255,6 +256,15 @@ def transcribe_with_inaspeech_cluster(
         if speaker_count is not None:
             if speaker_count < 1:
                 raise ValueError("--cluster-speakers must be >= 1 when provided.")
+            max_clusters = len(embeddings_array)
+            if speaker_count > max_clusters:
+                print(
+                    "Requested --cluster-speakers="
+                    f"{speaker_count} exceeds available diarized segments ({max_clusters}). "
+                    f"Capping to {max_clusters}.",
+                    file=sys.stderr,
+                )
+                speaker_count = max_clusters
             if speaker_count == 1:
                 cluster_labels = np.zeros(len(embeddings_array), dtype=int)
             else:
