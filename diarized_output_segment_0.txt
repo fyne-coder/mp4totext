@@ -1,0 +1,41 @@
+6792/6792 - 17s - 2ms/step
+6792/6792 - 17s - 2ms/step
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Detected language: English
+Transcript:
+[male 1.48-5.84] Oh, I cool. Let's get started. So first...
+[male 6.40-10.82] This is recorded. Second, I wanna...
+[male 11.82-30.84] You'll be a big shout out to Duncan Fraser here from Thrive Capital. Really appreciate you taking time. You'll do your own introduction. You'll do a much better job. I get other than I really appreciate you coming on. You and your team is on a great job working with us and work with team of cloud to make it work with your application.
+[male 31.54-37.26] which I know you'll just got more. The one thing I say for the team here is, and don't you can,
+[female 37.96-39.98] Yeah, change it as in. The pain you want to.
+[male 39.98-53.66] work, you know, always we have a chat, I was asking people used a chat for questions. Don't give you want to be interrupted, just let us know that you will have a problem generally with this group, if you want to be interrupted, they will hopefully ask questions.
+[male 54.12-56.80] People say just jump in if they have questions.
+[male 57.34-77.26] Not copy dance or real perfect. So what I thought a bit interesting before our pass of Duncan is I asked them to come on. They'd be using cloud in production for yield gold and more details for a period of time now. I thought it'd be interesting for the team here to hear their journey with him a cloud or are they?
+[male 77.80-81.74] and then Don get in a good way to talk about what's working well.
+[male 82.26-91.52] but he will love to see the products as he loves the products so much as well. And give him respect to generally, and it gives us team an opportunity to ask him questions don't give him as well as I just described.
+[male 92.48-99.30] So yeah, again, thanks, Duncan. So with that, I'm going to pass it over to you. And you get started.
+[male 100.20-104.96] Awesome. Great to be here with everyone today and excited to walk through.
+[male 105.40-110.46] sort of how we're using Tamer, where it fits and sort of what we're building at Thrive Capital.
+[male 111.06-123.40] and hopefully some useful feedback on where I think the products could go to make it even more valuable for us. Before I jump into the slides, I'll just do a quick intro on me.
+[male 123.88-129.02] I have been at thrive for two and a half years or so, prior to that.
+[male 129.56-132.64] I was leading data science and analytics at Casper or the mattress company.
+[male 133.54-137.72] and I was there for about six years joined right after series B and
+[male 138.22-140.16] stuck around for about a year after IPO.
+[male 141.10-148.60] and I started my career in analytics consulting at a company called Crossix that sold consulting services on the back of a proprietary.

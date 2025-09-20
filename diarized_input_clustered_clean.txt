@@ -1,0 +1,302 @@
+Transcript:
+[SPK00 0.00-0.36] this kind of...
+[SPK01 3.02-12.24] Right. Okay, so let me share with you what I was experiencing. Sure.
+[SPK01 18.34-21.18] And then I'm gonna share something I think.
+[SPK01 22.28-27.38] I was just looking, it's been crazy so...
+[SPK01 28.42-33.24] We have been hard much time by yesterday. I'll take you this a little bit. Sure.
+[SPK01 36.28-46.06] So this was the query. So this is okay. Let me pull up the, because I have it in here. Yeah. So I was in this. Yeah.
+[SPK01 46.70-56.20] custom GPT, right? So I asked a very simple question. Question, can you give me 10 invoices for profile 11?
+[SPK01 57.40-62.40] 22 which I actually had an actual
+[SPK01 63.00-73.40] ticket with a question so I was like let me ask sure. Yeah, right. Perfect scenario. So it gave me this information.
+[SPK00 73.94-82.36] Um, if I share these, these will you be able to see this in? No, because well, you have to change it. You have to change your settings. I think, uh,
+[SPK00 83.02-87.40] Well, we can talk about it. Oh, yeah. So anyway, you can see the things. Yeah.
+[SPK01 88.02-91.46] So, I think this is a simple query. Yep, I'll see you later.
+[SPK01 92.06-93.98] So it came back, it...
+[SPK01 94.54-99.04] brought all this information that tables that it's checking.
+[SPK01 99.62-114.02] And then I got this. I was like, okay, this is good. It does reference invoices, which I already discussed with you. So, so I took this query. I was like, okay, let me.
+[SPK01 114.70-116.48] Run this query. So...
+[SPK01 119.34-131.18] I believe it's this one. Anyway, let me do it again. Yeah, just to the game. I just can't. Okay, here.
+[SPK01 134.02-147.20] So let's just do it again here because I then I started spiralling into like I is not working blah blah blah blah blah blah blah blah. So I have to change this. Okay, let me just show you the message I get when
+[SPK01 147.72-158.54] and we have invoices, right? So I get it cannot connect with tells me invoices doesn't exist. Yeah, we know that, yeah. So I change that to invoice. Mm-hmm.
+[SPK01 161.72-166.96] say, NIC's invoice profile ID, right? Where? Yep.
+[SPK01 167.96-177.50] in the way I close. So in this profile ID. So this profile ID is coming from this procurement.
+[SPK01 178.22-199.04] or the invoice. Yeah. Okay. So I have the tables that I did all the tables that I did as such when I was creating the screenshot thing that we need to whatever source that table profile or the invoice. So if I look at for profile.
+[SPK00 202.22-205.34] I'm looking at the best spreadsheet too. We'll do.
+[SPK01 207.40-208.94] in voice.
+[SPK01 209.72-213.72] Let me see, can I find this here?
+[SPK01 214.28-222.38] Anyway, if I let me see profile or I don't know why this such is not working. Or today?
+[SPK00 224.32-226.84] Let's prop a... isn't it?
+[SPK00 227.72-232.26] Are you looking for the table or? Yeah, the table. The table is procurement order.
+[SPK00 232.92-235.48] and voice is lit. Yeah.
+[SPK01 236.58-239.64] Yes, sorry. Yeah, precisely. I'll bring it back in.
+[SPK01 240.82-242.72] for a few minutes.
+[SPK01 245.38-249.60] Okay, so if I just select this procurement table.
+[SPK00 250.58-264.94] um, very limited to all this. So we don't have profile like these. Right? So I'm trying to figure out like the reason why I did a little bit more investigation here. It's the spreadsheet.
+[SPK00 265.50-270.28] If you look at this spreadsheet, there is a profile ID. Yes, I... Yeah, I...
+[SPK01 270.98-293.52] That was my other thing, right? So immediately I went to this, um, and it's over here. Yeah. Right? I looked for Highlight B, provided the supplier count. There's also a pyramid. If you look at procurement, what are the numbers the same thing? Let me look at the procurement, uh, procurement.
+[SPK00 294.48-298.86] and we'll see in the cooking room. See right there, there's proof point. Sixty-six.
+[SPK00 299.46-301.78] 66. You say?
+[SPK01 302.56-306.12] It says profit so this is actually wrong. What's up?
+[SPK01 306.98-324.62] Yeah, I know. Yeah, I know. I know. I know. This was from product. Yeah. I don't know who created this thing, but who knows, right? We're not even going to get into that. It doesn't matter. Please help. Yeah. But I have the, I think maybe.
+[SPK01 325.28-327.38] We could use them.
+[SPK00 328.28-345.68] document I sent you with the screenshots and the screenshots of the tables. The screenshots are going to be it's going to take a little bit longer because you got to it you can do it if it's a different process because you have to scrape everything off the screenshots. My suggestion, Carol.
+[SPK00 346.22-368.04] But we can do it by it's going to take longer. Because what happens is how to get, you get a scrape every screenshot and when Jackie Patee has to take the screenshot, it's great then it attacks. And you still have to check it. Even if garlic's, you've got to have ensure that the scraping is going to get what you want. GM2 choices here, you can do that.
+[SPK01 368.86-379.14] or you can update this spreadsheet. And you have a choice here. The updating this spreadsheet is kind of un-hot mess because number one.
+[SPK01 380.30-387.34] I don't know all the relations of this thing. This was like, yeah. I mean.
+[SPK01 389.30-407.58] Like yes, I could go here and change these to a router ID or whatever, but then I'd have like it's a lot. It's a lot of work because number one, I'm also not familiar. Hence why we are doing this is I'm not familiar with every single table and their relationship.
+[SPK01 408.16-417.80] of it, right? So this was like, this is why product I guess somebody did this. And it was, it's helpful, but it's not.
+[SPK01 418.94-427.02] It's helpful to some extent. It is helpful when I'm saying it's not, but... So, let me...
+[SPK00 427.68-455.54] I totally get it, Carol. So the thing is, there's things in this table that was used for the, some of the information, like what this table has or your screenshot doesn't have, it's some metadata about the columns in the tables, right? I think, right. It's got some more commentaries, it's got some soft linkages as well, kind of, it has that. So we can get rid of it, but it's kind of, it could have, I don't know, it could have fat. Very nice理.
+[SPK00 456.44-468.56] the performance of the sequel. Well, which is okay, I'm just letting you know this. So it goes back to Cal, whatever we decided to do, Cal, the most important thing.
+[SPK00 469.24-471.16] is whatever you get, chat to be tea.
+[SPK00 472.18-483.28] It's up to you who owns it, has to check the sources, right? To make sure that data is right, because whatever you put in Jet to the T's, it's just gonna kind of spit out.
+[SPK01 483.80-496.86] what it sees, right? I think that's the ultimate way to figure out. Okay, so he is my thought, okay. Because before I got this from product, I had given you like.
+[SPK01 497.68-512.16] And I'm not a child figure of which one. There was this table column list, which I generated from the database. Okay. Yeah, remember, there was this one. Yeah. And then I think.
+[SPK01 513.38-519.44] you had me like let's not say that. I believe.
+[SPK01 526.78-528.94] I believe we also had
+[SPK01 530.38-544.14] You send me like this, add a file or something, to add the descriptions. I've heard this is a very changing layer. Yeah, we had the table fixed description. And I can let me open this.
+[SPK00 544.82-566.36] Yeah, how we get the reverse engineer, what you gave me some initial information, kind of reverse engineer, from chat to chat to fatigue, generated this based on your information. Yeah. OK, so we had this, which we just had some level of accuracy on the tables. Yep. On the tables, right? Yep. Yeah. I think we looked at one.
+[SPK01 566.92-583.98] that was like, you know, somewhat the description or somewhat, um, yeah, I remember. Yeah. Yeah. It was like, I think it was the order one. Yeah. The cons. But we cut like I went over this with, uh, weird.
+[SPK01 584.68-588.16] Thomas, and one of our one on the ones, and it was like
+[SPK01 588.72-590.92] I've looked at this table, is there 8.
+[SPK01 591.58-595.64] Also look, tell me if you see we kind of glanced in...
+[SPK01 596.94-628.76] you know, try to see which one's mixed and which one's don't mix and it's right? Yeah. Yeah. So we could use this table and also the table fixed, I'm just going to open this to you. I don't really, okay. So there's this one. Yeah. I don't remember which is what you any more, but yeah. Yeah. There was this one. I just want to have this one had columns, maybe I don't know. Yeah. This one had like the columns. The columns and the table wasn't columns. Yeah. And then these ones.
+[SPK01 629.54-634.04] And we try to do the same thing but with
+[SPK01 634.88-648.66] the description. So in my mind, I'm thinking if we use these three, including the product one, do you think we could...
+[SPK01 649.26-654.60] like they could be, it would create more of a mess or would,
+[SPK01 655.86-664.88] Chaggipiti think, okay, they some error here and maybe help us catch with ones have the errors on that.
+[SPK01 665.80-674.64] on that product one. Because that product one is human error, is not really. So,
+[SPK01 677.06-682.42] Because this one's come directly, this was directly from the database.
+[SPK00 683.14-693.08] Wow, sort of, it was from your sort of documents,...] ...which I wrote from the original laws... So, the core hears that...
+[SPK00 694.60-702.22] the ultimate answer is we don't know to be tried. Right. I mean, that's the ultimate answer. But...
+[SPK00 702.94-717.76] because the thing, it's going to take a little bit of testing, to get the accuracy you're looking for, right? Whatever that is, it's going to harm me to know that. I just, I just, yeah. Okay. Let me just, let me just,
+[SPK00 719.06-739.74] The process is the same. Remember what I talked about the process? Would you have to view and trace center it? Not get help, but you and transit. I can't help this process, because I don't know the data. Whoever knows the data, the best has to make sure the sources, whatever you put in your expertise, generate those 25 else, as a file, whatever you did check it, that's gotta be...
+[SPK00 740.36-746.46] accurate as possible because it's the, the check if he's using that data to create the 20 files for his customers you be.
+[SPK00 747.52-789.52] I can't, I mean, you, you, you, you, so my has to say it's good. I don't know. Right. Right. And I get that. And I and I can say things are good or not good. Oh, yeah. But as you can see, I can, I'm finding. Yeah. It's not like there's some other, and, and. It's a rare vocabulary that you wrote right. Anytime you do this, especially when you do it. Important if I do it. And then when it did is kind of like not perfect. It's a little bit iterative. That's why you have to do it a few times. It's not like one time you know. Right. It's a source state. It's not right. So you're going to iterate on the source data. and then it's gonna get better as you get hit right. Yeah, right. And I get all that. I mean, I'm expecting you to be 100%. Yeah, exactly. Yeah. But what I'm saying is, if we will these three documents,
+[SPK00 790.08-821.88] Even I think it will catch some of the things maybe to clarify or something. But I know you had it here, but you have to tell a witch's right. Okay, it's not, it doesn't know what's right. It's just looking at things. It can look for discrepancies where you have to tell it, okay, so you have two choices here. Two approaches, let me say, Carol, one can give it, but this is a separate chapter. You can do it right now. You can give it those three files, right? Is it, you have two ways. You can say, hey, these two files are right.
+[SPK00 822.74-831.16] check the third file and identify the error space in those parts. Yes. That's one approach. The other approach is here's three files.
+[SPK01 831.70-848.72] It showed me where it doesn't like where the conflicts are. And if you're a list and then you have to then you can work through. Oh, yes. That would be a lot. Because I'm feeling a little stressed right now. Only because.
+[SPK00 849.96-867.10] I can't speak for the product. Oh, my god. I'm with it. And then there's no other documentation anywhere. Let's do it right now. Let's make it. It's getting happy three files locally on your machine. Wherever they are.
+[SPK00 867.62-870.44] I don't look so popular to drive or get the download it or whatever.
+[SPK00 872.02-885.86] Oh yeah, let me think here, let me think here because I think... Just save it somewhere, save it until I fold it or something. Yeah, I think you have two of them for sure. Yeah. I don't know what the other one is.
+[SPK01 887.18-890.12] The other one was the two of them were from...
+[SPK01 890.98-897.82] Let me put them.
+[SPK00 899.54-904.16] And I don't know where the the the one for product is.
+[SPK01 904.86-907.08] They won't try that.
+[SPK01 908.84-914.16] For a moment no one will find us all. ...
+[SPK00 918.86-926.12] I mean, I think it's called Tracentric Data Detectionary. The addictionary, right? I don't know where it is though, where you have it and you're locally.
+[SPK00 930.96-935.52] Maybe it's in a custom GPT because that's newer. The first one.
+[SPK00 937.86-941.26] That's all I've done. Yeah.
+[SPK01 942.26-947.20] Just save it, you have it up to save it.
+[SPK01 948.02-955.54] Let me just create a separate form. Sure, yeah. You know what you see, this is for tables or something, right? Yeah.
+[SPK00 956.28-964.32] um, they'll tell you to speak them from yeah you should you should uh, you don't have the right thing to go you should organize it the way um
+[SPK00 965.10-967.56] You know, just fetch your mental model. So yeah.
+[SPK01 969.22-979.20] Um, okay, let me see. File, I'm just gonna do file save because it might be the quickest way. Yes, see if I'll share this one.
+[SPK01 980.04-1030.68] Goes to non- scribble but then be in the umm... okay ok One, one Next a full empty
+[SPK00 1033.78-1040.50] You put it in, you didn't put it in table. See it's right below. Data dictionary, just move in.
+[SPK01 1041.10-1053.52] I didn't put it inside the table. Yeah, it's open right now as you can. Yeah, I'll move it after I'll save the VM. Let me save the VM once. Yeah, I just want to see them while I have them on this screen. Yeah, make sense.
+[SPK01 1054.64-1059.48] fail see best thumbs
+[SPK01 1090.70-1100.92] Okay, so this to I in here. Yep. And let's put the unicorns here. We call this a new one. There you go. You drop it in.
+[SPK00 1104.22-1108.12] So we are both free. So one is going to charge it, Peter.
+[SPK00 1112.56-1130.78] Let do a new chapter, not in that to a brand new chapter. On the left-hand side, you have top, yep. And Apple's three files. Let's add photos and files. And we'll ever put it.
+[SPK01 1132.44-1135.68] So do we when we do the
+[SPK01 1139.78-1143.90] When we do it, okay, in your last got out of them. It is good.
+[SPK01 1144.82-1147.30] The new chat seems to destroy the meh.
+[SPK01 1147.88-1153.40] Yeah, so then I put it in this thing. It's not in this thing. Well, okay, just a bit.
+[SPK00 1153.94-1156.28] What, they're not all, um...
+[SPK00 1156.94-1175.06] They're related but not directly related, meaning this. The TC delivery is the output of what you put in. So it has some of that wrong information, right? What we're doing is investigation to create the input for it to create a new version of that. Because that version is wrong.
+[SPK00 1175.76-1200.60] Okay. Right. Because we took all the sources, remember the V1 sources, which has a product table, it's looking at that and taking the table names, right? And whatever counts, it's using that to create artifacts that were using in the custom GPT, which is the TC delivery blah blah blah. Okay. So that's that one, it's using all that information, we gave it, and we know that's not right.
+[SPK00 1201.68-1209.24] Okay. What we're doing here is investigation to figure out, to write what do we want to put in for the new one, the new version.
+[SPK01 1209.90-1217.60] Does that make sense? Yeah, so the V2, I feel like the V2 was working well.
+[SPK00 1218.12-1240.72] It had same problem. Yes, because I was using the product table. All right. All right. This is this. This this this is what we write when you do an investigation. You you want to do it in a new chat because you're investigating out suck because we know that one wrong outside of that thing so here you want to type in.
+[SPK00 1241.60-1244.04] I'm looking for...
+[SPK00 1244.88-1251.64] discrepancies in table and columnities between these three files. Can you list them?
+[SPK00 1252.26-1256.96] He listed what the descriptions are and what files you're finding these descriptions is something like that.
+[SPK00 1257.54-1260.64] Does that make sense? It would have a word in works. That's what we're trying to do.
+[SPK00 1266.24-1269.46] in columns and in tables and columns. So let's look right at that.
+[SPK00 1274.14-1311.32] We need to tell it like which tables. We don't want to. We want to see if we can find more than that, right? That's OK. Which tables are the correct ones or not? We don't know. Or you look if you know that. She actually repeat doesn't know that. Or is it the fourth discrepancies? You can see the discrepancies. Oh, wait a minute. Maybe it's just one or two. I don't know, right? Yeah. That would be just that profile. It could be. I don't know. Once you hit enter here, so we'll see what we get. It's going to take a little bit of time. Why? OK, this is a problem that you want. Like why do you have this instead of? And that like. I can't, that's not me.
+[SPK00 1312.58-1314.56] You want to scroll there? It's gonna take a while. Scroll down.
+[SPK01 1315.62-1326.46] Yeah, I'm going to use this a little bit. What's happening here? So it's the table one, the feet and the data dictionary.
+[SPK01 1327.24-1336.42] I was thinking, it's working. Give it to me. All right, well, it's doing this. Okay. Let's talk about some other things. Sure, shoot. So.
+[SPK01 1341.56-1351.20] I, okay, so I guess I'm just because of your time limit, it kind of I'm getting stressed because I'm trying to make sure that.
+[SPK01 1352.60-1354.38] I can get
+[SPK01 1355.16-1367.72] as much information or at this thing working at least to some 80% level. And I was very confident the last time that it was working until I hit this.
+[SPK01 1368.32-1374.32] Snag, so now I'm like, but I don't know, so the question is...
+[SPK01 1378.20-1380.88] Do okay, how can we get this?
+[SPK00 1381.56-1387.38] like Dan Lake next by next week. I think so, but it's okay.
+[SPK00 1388.14-1400.22] I mean, look, anything new, you know, there's always a level of stress. These stress is kind of a good and nothing. But I think this is why, let me emphasize this again.
+[SPK00 1401.16-1429.40] The bet, this is something, so what you, what you, what you believe need to, what you really have to understand how it works. Because what's gonna make the output better, getting whatever percentage you feel good about, is really how good the information you put in it. So if you give it like a machine, the machine is there, the problem right now, well I think it's there, right? The problem right now is what we're putting in the machine is not right. So what you get out of the machine is wrong.
+[SPK00 1430.16-1439.62] So the thing that you should be stressing about, if this stress is, how do I make sure the data's right? That's what I'm saying about. But that's something you guys control.
+[SPK00 1440.16-1447.88] Right? The machine is the machine. So I, I, that's why I'm trying to put the directions in. Well, you should feel, you should then my time.
+[SPK00 1448.58-1462.34] Um, working, I hear the houses in work, wait a minute. But I do another version of how does it work? Why do I have this version that word? These are the questions you really work with me on. You should work with Thomas or somebody else. Hey Thomas, this isn't going to work unless the data is right.
+[SPK00 1463.40-1492.24] I'm just making promises a damn, all right. So that's, so this one stress is like the, make it for the data's right. That's like, you guys know this, right? Well, the data was right until I, what would the product, but I'm saying trace center data, right? Whatever the data is, right? But you control that. I don't control, meaning like once you know, so that's why some important to know how the system works. Oh, if the system works like this, I have data, I make sure to write.
+[SPK00 1492.78-1508.16] I feed the machine and the thing that tell you you haven't done is, after goes out of the machine, you have to look at all the artifacts, all the artifacts look right. Then you're gonna be feeling like, okay, now when I ask a question for the customer to be teed, I feel confident that the answers are gonna be as good as possible.
+[SPK01 1508.68-1524.54] Okay, so I get all that and I'm really trying to just sort of make sure we are well because of the time we leave it. Yeah, I want to maximize. She could download that by the way, but yeah.
+[SPK00 1526.68-1528.64] Download the Excel report, see you soon, stay alert.
+[SPK00 1529.80-1538.48] here. But now she does just download Excel report. Oh yeah. Sorry. I think. Just click on it.
+[SPK01 1541.84-1550.04] What I'm trying, I guess, and maybe I'm not vocalizing as well, I should probably add more of what this is.
+[SPK00 1552.14-1556.88] I don't know. You have to go to every set. You go first and we work through this spreadsheet.
+[SPK01 1560.62-1577.22] I was on Wichwa I get because I'll own this thing. I'll just try and wish I first saw I understand the entire process. And then say, can I start with the report? Yeah, that's the data is accurate because my name writes on this thing and I need it to be.
+[SPK00 1577.90-1588.32] not 100% perfect because it's not going to be 100% but at least 85% or I'm with you and this is why I think my suggestion is this.
+[SPK00 1589.16-1590.90] and it's just how I didn't work that well.
+[SPK00 1591.50-1611.12] these didn't do in the United States. So again, that's why I think one of the things to learn when you work with Chad Gittis, you got to like, it's a process. It's not like an answer. It's not like a calculator. So let me go back to what you're saying. We could go because this is not working. So.
+[SPK00 1611.94-1634.90] This is there's, and I'll put this in the documentation. There's, I think we talked about it. I think it's 304. I'm going to do it in my mind. It's 304 things that you should feel like you should measure your confidence on. Okay? Let me make this as good as possible. Not perfect, but it's good as possible. First thing is the data I'm going to use.
+[SPK00 1635.82-1643.04] to put in chat to be telling. That's that number, whatever it is, it's something that I'm gonna, that you care about, trace and trick.
+[SPK00 1643.64-1655.70] understands that process. Here's the right data. And it can ask me as good as possible, just can't be wrong, which right now is one of the table's names is wrong. So one is the sources.
+[SPK00 1656.68-1668.40] And then this is the process. Okay, once I get to sources, what's the process within the my documentation? How do I get my sources and create the custom DPD artifacts?
+[SPK00 1669.72-1674.56] So that's a top, like that's a taxi that long.
+[SPK00 1675.12-1690.90] instruction it creates the 25 holes in the file that you get to download, you're extracted out. You need to look at those artifacts to make sure that it's like what happens between the sources and then one through the machine it came out the machine and it looks right.
+[SPK00 1691.84-1707.08] And then you put that in the custom GPT as a new version, or how you want to do versioning. And then you verify, right? So those are the big box of sources. Put it through the machine.
+[SPK00 1707.76-1722.22] like re-verify the output out of the machine, the 24th, and then test in the costume GPT. That's also like the big box to think about. If you think of it that way, then you can identify the weak spots.
+[SPK00 1723.10-1747.54] right because it could be like a weak spot is the source is right now what we are noticing the sources is some irregularity with the sources. That's kind of what we think right. Right and I'm getting that. What I need to do is so we have all these documentations. We have the questions we have. So this is not accurate and literally come through.
+[SPK01 1748.06-1751.58] each one of them individually. So I think we...
+[SPK01 1752.40-1754.66] I would like to make sure that we...
+[SPK01 1756.00-1761.30] Like, just again for my own sanity because my worry is...
+[SPK01 1762.02-1767.70] which documents the use which one's the do not use so that I can know.
+[SPK01 1768.68-1787.92] But that's in the source is V1, right? Yeah, so, but I also need to look at the original document. So that's what I did on one. Yeah, so it was the product one. Yeah. And then this was the queries that I had the question and there's a version two of this, right?
+[SPK01 1788.54-1796.22] Yeah. So these are versions too, instead of these one too. So this is the kind of thing I... These are the... okay here.
+[SPK00 1798.18-1811.46] This is a version two with the question. Yep. Yeah. I told you to remember I actually expanded the data, which is fine. Yeah. Great. This is the optimistic. Great. So this is, yeah. So for accuracy, sake. These.
+[SPK01 1812.08-1820.16] Just for my own sanity. So, so far, this one is wrong. This one is good.
+[SPK00 1820.84-1838.86] test cases, what was this? Oh, this was this. Appreciate it. That's pretty cheap. Yeah. OK, we did. Yeah. This is not going to be this. This is not. Yeah. Not important. Well, it's not as not a porous, and that is useful anymore. And then here in OK, so I'm wondering, ways that OK, I know.
+[SPK01 1839.72-1842.78] You see it, it's gonna take a while to scrape.
+[SPK00 1844.84-1877.90] Not that it will take a while. You still have to, it can scrape it, but you have to do it, it's a little bit manual. You have to put all the documents in there, and then you have to verify the table. But that's what we did. So the two other spreadsheets, that's what we did. So we did that. So what do you, my opinion is, so you have the two spreadsheets, the effects from the fixed V2, whatever, the other ones, the ones that, is what have table names and table columns. That's from the document you send a long time ago.
+[SPK00 1878.50-1892.50] So they did all that. We still have to check it because I could chat to pee and be like, looking at it and trying to read through screenshots. You still have to verify that's correct. Yeah. But I want, I think.
+[SPK01 1893.84-1897.32] Okay, I don't know if we should use that scripture but
+[SPK01 1898.20-1901.88] But my other question was also this, did we use this weeky?
+[SPK01 1903.24-1912.40] I mean, was this document like relevant? No, this was like called the things which we did in the album. And he broke it apart, right? Yeah, yeah.
+[SPK01 1914.06-1920.46] What about this here documentation? This was also another week. Oh, this is the one that had this.
+[SPK00 1921.36-1932.24] Yeah, that's my short thing. So did we use this table? I don't know. I believe it is how we got the initial tables, the other two, the two itself, all you got.
+[SPK00 1932.82-1941.30] that you use to do this for Epidsee just just now or just a couple minutes ago. That was from the stocking. So...
+[SPK01 1941.98-1958.80] or the one that the table, the two spreads, the table, yeah, that spreads extrapolated from this one. Yeah. And then we did we use this. Yeah. Okay. So in my version, this has been uploaded.
+[SPK00 1959.62-1967.38] Well, should we upload this again? It has been uploaded. So this is to verify there's to go back there, go to sources in V1.
+[SPK00 1968.28-1973.10] All right, so it is in V1. This has everything you uploaded.
+[SPK01 1976.26-1981.74] Yeah. Trits Henryk.
+[SPK00 1983.56-1987.56] It's there, I don't know which one it is, but it's somewhere there. The right there, yeah. Right there, copy.
+[SPK00 1989.86-1994.82] And it's a copy of Tricending Data Dash eure GRAMFulator.
+[SPK00 1998.80-2002.68] go down And trade center Take this Yeah That's it
+[SPK01 2004.32-2015.38] Yeah, this one. Okay. And then there was the other diagram I don't know where that came from. Was it this one? Yeah, that's one. That's some confidence. We talked about this.
+[SPK00 2016.20-2020.64] I don't know this document. That's from Confluent. You can look it up and Confluence. Yeah.
+[SPK01 2024.48-2031.26] Because my fear is because I don't know this document and I don't know where it came from and I kind of
+[SPK00 2031.92-2043.72] feel like it could, I don't know where these don't, like I didn't verify these don't give me. That's okay, we talked about this car, this is a make.
+[SPK00 2045.04-2049.82] You ask another one of our questions, but it's... You...
+[SPK00 2051.08-2062.20] you who come as whoever have to decide what are the right, I don't know, right, I've mentioned that. I just put some stuff in there that I saw. So can we remove this document?
+[SPK00 2063.16-2068.40] Well of course, because you're going to do another verse because the current verse you have has incorrect details. You have to do another verse in anyone.
+[SPK00 2069.08-2071.32] I have to rebuild it.
+[SPK00 2072.04-2093.10] Yeah, okay. Maybe we could just eliminate these documents for now because I'm not a 100% confident when these documents are. The most possible. And also, I would say the most important things. And maybe you want to talk with you verify whoever confirm with.
+[SPK00 2094.00-2117.70] look at the list and you have to pick what you want to put in. Whatever you put in, you have to confident that you have to know it. I could put in, this is the list, I just gave you what I did last time, which is what we're doing now, you know, so in a way. And again, I'm the only one who's going to have to verify this because.
+[SPK01 2118.36-2120.12] Thomas is kind of like
+[SPK01 2121.26-2138.94] This is essentially my project, right? But he's the manager that I have, law discussed with this project. But he also does know some stuff. So, you know, if there's something that is throwing me off like in terms of data, wise.
+[SPK01 2139.56-2153.12] Like when I needed the product document, right? That's when it comes in. But I have to do this verification myself. Yeah, so that's why that's...
+[SPK00 2154.52-2160.38] In some ways, I wouldn't look at the custom GPT yet. Would you should verify it for us?
+[SPK00 2161.20-2173.74] these are the documents. I am here's the I am confident as much as you can because again it's hard right? As much as I can be I'm confident these are the 10 a make it a number. These are the 10 documents.
+[SPK00 2174.32-2188.74] that have enough information to put into chat to critique, to create the cosmology of the TV. Because if there's anything wrong in the source documents, it's going to come out the other end. Right.
+[SPK01 2189.26-2208.62] And the egg, I get that. So is this document, it kind of looks like the other document. So this is the one thing I'll definitely verify this week. If you enable, if it's the same exact document as the other one, that is this one. Yeah.
+[SPK00 2209.48-2233.94] then were good. The only, the reason why I'm having slight issues is because I'm not a whale of that document. It's like, I think you get what I mean. I just like, I can't really, where is this document? I can't provide with these documents. I think, but my, as Karate, I'm having work with this with you a lot now. I don't think these are the documents of the problem. The problem now is conflicts between your document and the product document.
+[SPK00 2234.96-2249.48] that really has this conflict so what happens with the because of the conflicts it's getting it doesn't know what to pick exactly right so that now it's getting confused so you're gonna get a long answers okay so i think
+[SPK00 2250.08-2270.48] And I can't really, if you do, if, if, if that's a magic to choose spreadsheets, not the product one, you want to have the table or the table and call it makes it, make it that's right. Let's make it leave for a second. And you don't need a product sheet. Now the product sheet is other information I think is useful, but let's make it, it's, it's too hard. It's incorrect. Let's make it make it, making it up. You can try it again. Now I don't know.
+[SPK00 2271.42-2287.64] It might be better in some ways, but worse in some ways, because that spreadsheet does have more information, but at least you know what the data's coming from. You can verify yourself, right? If you don't want to go through the whole product works, she'd have kind of figured it out, essentially. Yeah, I mean.
+[SPK01 2288.48-2293.28] I would like to go over it, but I have to say like
+[SPK01 2294.62-2296.96] I mean I'll try but
+[SPK01 2298.14-2311.24] My recommendation is to make a heart to mess this because they've called this whole thing in voices But yeah, so it's a head by recommendation Carol
+[SPK00 2312.62-2333.68] This is a little long. So here's my recommendation. It's going to be what the thing is, it's something wrong, it's always work, right? Because even that other spreadsheet, I don't know, maybe something wrong there, it's usually hit it, you don't know, so it's wrong, right? So that's why I sort of get to, you gotta like do the eye check on every thing. To make sure, if that doesn't look right, that is right. But Eric Garland is my recommendation is this, Carol.
+[SPK00 2334.48-2340.78] you're saying all the right thing. You have to decide. What is the right file?
+[SPK00 2341.48-2344.14] right. You have to pick and choose what the right falls are.
+[SPK00 2345.20-2355.62] And then we go through the whole process. And then you have to verify that the answers you get are right or wrong. And now if they're wrong,
+[SPK00 2356.68-2359.48] is it wrong because of the sources or the process?
+[SPK00 2360.04-2378.46] Right now, it's all right, right now it's wrong because the sources we got to fix the sources and they're very rare or fine. Okay, now the sources look right, but the processes wrong, but we don't know that to the sources. So, let's do this. Yeah. I will go over these document because.
+[SPK01 2379.24-2386.86] It is generally good information, maybe. What I'll always cross check this with my...
+[SPK01 2388.04-2390.20] other
+[SPK00 2390.74-2406.64] I'm gonna try the same thing on my side, which actually be tea. Yeah, we just try it. Yeah, I have all of them. Yeah, I know we just try it. I'll give it a try as well. Okay, I'll give it an output of what it finds. Like obviously we know.
+[SPK00 2407.18-2429.42] And I'm going to go through it manually. Yeah, I know for example, the table name is wrong. And I do know for example, that some of the column names are wrong. We know that. Right. So now in that question is, it'd be nice to say, these are just the differences. And you can look at the differences. But I think that's the try to, I don't know if that's going to work. I did miss it. Let me share my screen for a second.
+[SPK00 2429.96-2434.04] I did try a little bit of this and I don't but I think is
+[SPK00 2435.28-2437.88] I gotta redo with others spreadsheet.
+[SPK01 2439.04-2451.62] What is okay, but we just used the data dictionary in this version. We didn't use the other tables, right? What do you mean for? In the sources.
+[SPK00 2452.68-2530.80] We don't have the names of them. We don't have the two tables here. No, no, no, no, no. We didn't use them. Because I think when we talked, we thought to the product Reynolds baby. I remember that. Yeah, exactly. Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh my god. I still have slight setback. Was that, sorry? I'm saying I'm feeling like this is a small setback, but you know, it's, it's new, I'm all. But I think, this is not, I want to call it a setback. This is the normal process of creating any product, actually. So, so this is like a mini product. But you got to kind of do it, check things, and test it, and QA, et cetera. So, so, so, you're not that fall-away, Carol. This, this is why I think when we talk last, I'm really, I'm going to stress it again. The source has to be right. Because whatever goes in, it's going to come out. So, I think that is the most important thing, I would say. I'm very confident on the process side, because I've done it a few times, but the source is, I have to be right. It's gotta be right. So, I'm not going to show you this. Let me try with the three tables again. Oh, I'm. I'll try that again. I'll send you the results. I'll try it when you see it here in a second.
+[SPK00 2531.66-2561.84] I mean, it's like a f- Why you're not able to show me? I would like to learn. I know, I want to try it again. I mean, cool. Where is it? I thought I find it on dry again. Do I have those problems? Let me, let me put them as just tables and columns folder. Yeah, can you just drop in that folder? Yeah, yeah, yeah, yeah, that would be easy for us, even in future. Why did you share that? And I'll try to do it in my end here. Yeah, that's pretty good.
+[SPK01 2563.08-2573.52] Okay, so I might create a new folder in this. She picked this drag-up to hold folder over. That should work. Oh yeah, actually yes, yeah. I'm good at that.
+[SPK01 2575.40-2581.62] in this trade centric database.
+[SPK00 2583.42-2591.50] there you go. I see you, I see you.
+[SPK00 2592.52-2600.80] Got a download huh ? Fighter равно. Head obstructions. Right. God. 남자 program.饿 prescription. A Journal ا sitter jerks. Unexpected. Of course I have a podcast series I am interested in, but I look forward to seeing another movie like this one
+[SPK01 2603.00-2606.12] And then I'll ask you some housekeeping.
+[SPK01 2606.86-2621.10] because I don't like this organization that those things throw me off. So just some little housekeeping as well as the chat, GPTs, chat, your, you can use, you can see much green, right? Yes. I am. I am.
+[SPK00 2730.80-2734.14] I think that is just a no-care when you do this.
+[SPK00 2736.30-2785.04] first, you put that as a couple of follow-up questions. You just have to get it as much detail as possible, because sometimes it gets right the first time, sometimes it doesn't see a way to manage what I really wanted is this. But that's okay. That's the, you have to get used to this. A lot of people, I'm not used to this way of working with these type of applications, because they back like, oh, this is the answer. Like in the head, they answer as the answer. But that's not how these systems work. So you have to, it's like talking to someone like, actually, I'm making a name on Michael, which I really wanted is this. Can you go back and do it again? Yeah, it's like one new, like a work work, I can fit an intern, right? Like, yeah, that's not what I was looking for. On my regular chat to GPT, like, yeah. Thing I do on my own. Yeah.
+[SPK00 2786.32-2835.42] Like I asked random things, I follow up, you know, yeah, yeah, yeah, you got a lot of stuff, you know, even like when I'm looking for a syntax or something, and then if I don't understand like the syntax, I ask like I ask for questions. Yeah, so I do that. Yeah. But I think this one, the custom one, I'm learning as we go. That's fine. And it's something, but of different. Yes, you are in a good way you are, right? I mean, you are learning as you ship it, because this is all, there's kind of the way of working with, this is all new for a lot of people. Yeah. 90% of the people who haven't touched it, right? Which most people haven't touched it yet, right? Yeah. So it's not surprising to me. I'm just looking through the code here as it goes. Yeah.
+[SPK00 2836.00-2838.86] Okay, it's looking like the right thing. What's it?
+[SPK01 2842.52-2846.64] Wow, you know, it's also a little scary, like... Why?
+[SPK01 2847.40-2854.76] No, in general the whole AI thing is... it's kind of... Oh, it's scary how like...
+[SPK01 2855.90-2860.34] It's not really scary, we've scared you the wrong way. It's just weird how...
+[SPK01 2861.74-2872.24] All of us are then, like you can just have conversations with this thing. You can like, you can just watch it. It's dangerously late.
+[SPK00 2872.94-2885.42] Well, I'm believable. Yeah, you know what's interesting about this Carol is one that Chad GBT came up with five, five, Chad GBT five. So four always the last big model.
+[SPK00 2886.72-2891.60] and people when they would define that a lot of people will upset because
+[SPK00 2893.08-2937.04] The way that all these models have a, let's call it a personality, just a way to answer questions. It's called a personality. And it changed a lot from four or the five. It took me in a good way, but some people, they use it enough, like I'm using it for work and coding. So I just want answers, right? But people are like, private conversations with the world and they're a very set of change of personalities. There's a big backlash. Now that's what they put it back. They put four or back for now. So people still use it because they want that personality, not the answers, which are, by the way, more wrong. There's more chance more probability being wrong, but they like the conversation that they were having with our world. So it's not surprising to me.
+[SPK00 2937.60-2942.88] The thing that my thing is what surprised me the most is that
+[SPK00 2943.44-2947.82] It's kind of philosophical, piracy. So you can stop me anytime. Is the fact that...
+[SPK00 2948.62-3012.26] There is the way we think how people think. Like an AI is not replicating it by a certain point. So in part of how we put things together, AI has replicated. Yeah. And it's very similar because we do this, but we do it in much faster, much more compressed way than AI can do it. So they figured out how to sort of mimic how we remember and repeat back what we remember. That's the amazing or scary thing about it. And the question is, is it going to be really like the scary thing, think by itself? I don't know. Like that's, that's the thing. And you know, so when you, okay, so like my previous company where I worked, we did, it was actually AI, but people didn't know to, okay, some people in the industry knew that it is AI. And it's the predictive behavior one. Yeah. Right. So the company I worked for, we basically.
+[SPK01 3013.44-3020.56] look that people's behaviors are shopping, online, and then you predict and then you recommend things.
+[SPK01 3021.24-3047.58] Right, so like if you want like you go to the story or buying a shirt or whatever, right? So we think like before like we think for you. Yeah. Like hey, maybe you need this pants to go with this shirt that you're buying that actually match. So if you get tempted to buy, yeah, the pants that you are not even trying to buy. Yeah.
+[SPK01 3048.60-3051.24] And we did this online.
+[SPK01 3052.18-3061.64] for companies, right? Yeah. So which is why I am so acceptable this whole project. This way you see me excited because I sort of...
+[SPK01 3062.50-3075.34] realized that I was doing AI stuff. Yeah. Without really predictive behaviors like basically almost, the whole model was AI driven.
+[SPK00 3076.38-3086.16] model. What are you working on is a important foundational, is it that you think about building blocks? What are you working on? So the predictive ML.
+[SPK00 3087.02-3100.68] that part is a building block for LLMs. If you want to really begin to you should attach it to what is a transformer, it relative to LLMs. So you take all the things you did historically.
+[SPK00 3101.28-3123.32] Back in 2015 to 2016, I could read about this. Ever want thought, that's it. This is as far as we can go from the issue. Yes. And then suddenly Google invented this thing called Transformer, which is a whole mathematical way, looking at data and that's again, and pattern matching it. Because it's a transformer technology, you have this. So it's pretty,
+[SPK00 3123.98-3130.48] Yeah, anyway, it's pretty amazing, of course. It can't be, I think, I think.
+[SPK00 3131.08-3137.38] You know, you, you said it's worse here. I think it can't be scared because if you look at it,
+[SPK00 3138.36-3141.68] one way to be scared to say, wait a minute.
+[SPK00 3142.40-3158.28] Actually how we thank is very mathematical. Yes. It's actually it is math or you can say, all right, here we go. So, so it's.
+[SPK00 3159.78-3170.18] So you can't, you can't, okay, Excel file, do the same issues with Excel file. All right.
+[SPK00 3171.32-3176.96] I think I'm gonna have to play with that I think a little more. You see how I said, uh...
+[SPK00 3177.90-3182.82] does not carry clean table names. I don't know why I'm saying that. Let me just see what this is right here.
+[SPK00 3183.44-3186.46] Let me just open this. You want to see it, but let me just open it on my side.
+[SPK00 3187.38-3200.26] Yes, it looks like. Oh, wait a minute, it's just useful. Maybe. I'm just gonna look at this really quick.
+[SPK00 3202.00-3205.90] A table name X2
+[SPK00 3206.52-3212.64] Oh yeah, it didn't do it for the hug. Oh, it maybe didn't. Wow.
+[SPK00 3214.14-3220.68] finished my day, so
+[SPK00 3222.94-3231.40] The two spreadsheets that we came from your documents, there's more table names than the, look at this more table names than them.
+[SPK00 3232.14-3240.28] If they don't want the fire sir, does that make sense? Yes. It does, right? It could be because I feel like.
+[SPK01 3241.60-3243.48] So product probably...
+[SPK01 3245.24-3254.04] Again, I don't know how old that product document was, but it could have been like before maybe some other tables were added or...
+[SPK00 3254.68-3280.44] whatever, you know. Yeah. But yes, that would make sense. Yeah, because let me share my screen here. I think I'll sign you this. I think this is kind of useful. I'm still trying to understand it. Okay. This is shandan. I'm gonna share. It's this file, this file as well. It's tiny. I'll make it bigger even if I. So.
+[SPK00 3281.56-3287.96] Do you see this? Yes. So this is the three files. This is the fixed one is called 2 CSV.
+[SPK00 3288.50-3295.66] there's the description on the score fixed CSV. And then there's the trace centric.
+[SPK00 3296.46-3301.62] Data dictionary? Yeah. So notice that...
+[SPK00 3303.10-3308.86] is the archive batch content is not in the Bayed dictionary. I thank, let me check the tabocha.
+[SPK00 3310.40-3334.46] which is which makes sense because the archive that contents is not even a table we use. But then I guess from your spreadsheets your your dog it must came out right so yeah it because I got it from the actual yeah but there are some tables here we don't use which
+[SPK00 3335.24-3342.22] So this is fine. He has a lot actually because they see the zeros of the overlap. I think.
+[SPK00 3342.80-3375.58] So what is the meaning of zero, the zeros and what is zero? I think zero there's a potential overlap. Like there's a similar one. It's a founded in, in, you see, this is fire here, organization ID. I don't think, always. Then we, bit of, let me see. I don't have, so, I have to find the other spreadsheet. Can I put this, I download it this? It's spreadsheet.
+[SPK00 3376.50-3381.78] But no, the one I just got actually, with the day.
+[SPK00 3382.68-3390.88] The tables and columns. Yeah, I hear you. Yeah, I got it. I got it. I'm going to pull it up. When we put that table fixed.
+[SPK00 3392.68-3402.04] So let me just double check something here. So organization ID. Okay.
+[SPK00 3402.60-3404.66] Yeah. Ah.
+[SPK00 3405.46-3409.48] you know organizations.ind
+[SPK01 3412.80-3417.26] That's even the organization that's in the two.
+[SPK00 3417.82-3431.60] And it's also in the data dictionary. I'm looking at the data dictionary. Yeah, I'm looking at the organization ID. All right, so I got, let me play it. It's not 100% all right. And I don't like the way this looks actually.
+[SPK00 3432.30-3434.38] Let me play with it.
+[SPK00 3435.18-3449.36] because it's kind of hard to understand. Do tell me maybe we could tell it to. Yeah, I gotta look at this the first time. Oh, see, this is the name plus the column. I just want the...
+[SPK01 3451.70-3473.52] This is the same. How about we could... We could... Culture. To be it. Organizations. Could you tell me it's to like, okay, here's another idea. Yeah. Could we tell it to compare just the column?
+[SPK01 3474.04-3477.48] DBTable calling from the product.
+[SPK01 3478.48-3497.50] document. So like we specify specific columns. Just check this column from this document, this column from this other document and this column from this other document. Yeah, I take with me tried this. I'm not sharing my screen here.
+[SPK00 3499.02-3510.12] And then I've got to go second, but I will, I'll sing to the results. I'm going to work out a little bit right now. Yeah, that's fine. So I had a full one of questions on when.
+[SPK01 3510.74-3518.00] because I promise Thomas that I'm gonna try to get this finished by two weeks only because
+[SPK01 3519.80-3526.46] I mean, by next week, only because number one, I'm going on vacation at the end of the month. Right. And then...
+[SPK01 3526.98-3534.22] to I needed to present these to at least to some few people to test it. Sure. So...
+[SPK00 3535.74-3542.94] Can we meet more time next week? Yeah, here's, let me just adjust the plan here. Okay.
+[SPK00 3544.78-3551.40] I'm gonna try to ask you to be fine differences, but it's gonna give me some answers, but...
+[SPK00 3553.10-3554.74] What should watch this move?
+[SPK00 3555.40-3560.54] The answer to your question is how confident you are on the source document you're feeding it.
+[SPK00 3561.44-3571.42] Right. Yeah. So that's something I can help but I can only help I kind of like looking at the depths. Yeah. I'm not looking at it manually. So if you can do that then...
+[SPK00 3571.98-3593.40] Then you just got to repeat, I don't mind going through like setting another hour with you going through the process again. Make sure you follow the right steps and then create it again and then do some tech questions, right? Okay, so I should take, if you get a source as right, the end answer should be as good as what you put in. Yeah, I'll look at it manually. I'll compare the three tables.
+[SPK01 3596.24-3598.84] manually look at highlight light.
+[SPK01 3599.98-3617.86] the differences. I'll figure our system of how I can do the comparisons of this thing. And then I think if we meet next, you know, we can meet next week. I'll go to send you my calendar, but it's get schedule it.
+[SPK00 3619.00-3621.90] schedule it when you're ready with your sources.
+[SPK00 3622.66-3632.12] Yeah, I know. Yeah, I know. Because that's the, I have to stress that because, yeah, that's the, that's the heavy dependency making this work.
+[SPK00 3633.54-3642.34] Yes, yes, definitely. Yeah. I want to try this again. If I find something interesting, I'll send it to you on Slack to help you.
+[SPK01 3644.38-3660.00] Yeah, I don't have to think, I'll make see what this result is and then I'm going to make it more mad at you. Yeah, if there's a way maybe also if you're checking in case you need to check on different, I think just looking at this specific table and then related table.
+[SPK01 3660.88-3666.94] I think those are the two important things. They're DB in that product document.
+[SPK00 3667.66-3674.32] Yeah, because all these different table names are different colonies. Yes, they're so small names.
+[SPK01 3675.16-3687.26] the DB table name and the related table names. I think those are the important ones to look at. I think.
+[SPK01 3688.60-3723.66] Yeah, that's, let's see what's the secret generates. But it could be, if there's like, it's really messy, then maybe we don't use the product one. And then we should yell at product. Right. Why is this wrong? Like, make it right. How do we get this right? Just to give you just today is something like, when they give you to me, they're like, I don't know this document when it was created. It may not be. They already like, kind of like, through in some sleep disclaimer. So I can't go back to them because they need to in a sleep disclaimer. Because I think he was creative, I saw him with the who, I don't know, they were trying to do that. They were trying to do the right thing.
+[SPK00 3724.28-3731.62] Not that it's wrong, but who knows? Okay, so that's that. I think that's an a mic at Calvary.
+[SPK00 3733.40-3736.46] Anyway, you should check the data, but it...
+[SPK00 3737.02-3788.96] If I don't want to give you the impression that the day is wrong, it's not. But the thing is if it is, if it is, oh, if it's changed, right? If it is, oh, it's been checking in. Then you could decide not to use it at all. Just use, you gotta check it anyway, but use it all this part. Choose the thing, the reason why I thought that's pressure was good. It had the like descriptions in it. And it had some linkages. Yes, it was so. It was, you know, in terms of the perfect, if we were to write. If it was right, that's my thing. And then it was new that there was anything wrong with it. And to, yeah, this is part of the process. Yes, yeah. All right, okay. Have a great vacation. I'll say my calendar, but again, book it when you're, and I'll see what I can do here. Then book it when you feel like you want to go through the process again. Okay. Well, okay. Next week. Yeah, that's my next week. Yeah, I'm all right. Okay, okay. Okay, thanks. Have a good one. Bye. Bye.

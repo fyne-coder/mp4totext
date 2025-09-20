@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# macOS artifacts
+.DS_Store
+
+# Large media/artifacts not tracked in git
+file/
+input/
+
+# Transient diarization outputs
+*.mp3
+*.mp4
